@@ -127,5 +127,3 @@ dotnet run --project ./HabiTech
 ```
 
 And then open http://localhost:5014 to view it in the browser.
-
-#API Documentation
