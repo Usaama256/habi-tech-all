@@ -9,3 +9,4 @@
 /home/sama/Web/habi-tech/habi-tech_server/Habitech.Contracts/obj/Debug/net8.0/refint/Habitech.Contracts.dll
 /home/sama/Web/habi-tech/habi-tech_server/Habitech.Contracts/obj/Debug/net8.0/Habitech.Contracts.pdb
 /home/sama/Web/habi-tech/habi-tech_server/Habitech.Contracts/obj/Debug/net8.0/ref/Habitech.Contracts.dll
+/home/sama/Web/habi-tech/habi-tech_server/Habitech.Contracts/obj/Debug/net8.0/Habitech.Contracts.sourcelink.json
