@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Habitech.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6260169c51c63a6724c7ed8231c382ebae12ea66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+783e243f3b84dc70ebb2486bc66032817b05999e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Habitech.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Habitech.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
