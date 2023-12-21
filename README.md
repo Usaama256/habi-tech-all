@@ -1,7 +1,26 @@
 # Habi-Tech 
 The Perfect solution for your automation, Is made up of two componets; the client and the server.
 ## Live Demo
-<a href="https://habitech.azurewebsites.net/">https://habitech.azurewebsites.net/</a>
+<a href="https://habitech.azurewebsites.net/">Live Preview</a>
+### Login Test Credentials
+```
+{
+  "Email": "sama.dev@habitech.iot",
+  "Pass": "!wa30~03dq#"
+}
+```
+```
+{
+   "Email": "test.dev@habitech.iot",
+   "Pass": "03dq#~!wa30"
+}
+```
+## API Test and Documentation
+### User
+<a href="https://app.swaggerhub.com/apis-docs/USAAMANKANGI/User/1.0.0#/default/post_habitech_api_login">View Docs</a>
+
+### Lights
+<a href="https://app.swaggerhub.com/apis-docs/USAAMANKANGI/Lights/1.0.0#/default/get_habitech_api_switchlight__device_id___action___user_Id_">View Docs</a>
 
 ## Client
 The Client is a ReactJs project built using TypeScript and Vite.js
@@ -108,3 +127,5 @@ dotnet run --project ./HabiTech
 ```
 
 And then open http://localhost:5014 to view it in the browser.
+
+#API Documentation
