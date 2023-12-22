@@ -2,6 +2,8 @@
 The Perfect solution for your automation, Is made up of two componets; the client and the server.
 ## Live Demo
 <a href="https://habitech.azurewebsites.net/">Live Preview</a>
+<a href="https://github.com/Usaama256/habi-tech-server.git">Live Demo Repository</a>; Repository linked up with Azure App Service
+
 ### Login Test Credentials
 ```
 {
